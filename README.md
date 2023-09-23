@@ -1,5 +1,5 @@
 # node-course-2-web-server
-Mini project for HBS test.
+Mini project to try HBS.
 
 Mini proyecto para probar HBS render.
 
